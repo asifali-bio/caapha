@@ -48,7 +48,7 @@ a4[which(a4$gene == "DCAF7"), ]
 
 
 colnames(protein_list)
-b = protein_list$DCAFS
+b = protein_list$DCAF
 b = as.character(b)
 
 d = NULL
@@ -68,10 +68,10 @@ g = as.data.frame(g)
 colnames(g) = c("Intensity")
 g = log10(g)
 
-j = re$DCAFS
+j = re$DCAF
 j = as.character(j)
 f = f[j]
-k = re2$DCAFS
+k = re2$DCAF
 k = as.character(k)
 k = k[k != ""]
 f = f[match(k, rownames(f)), ]
