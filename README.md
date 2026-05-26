@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coffee_moji.svg" width="220">
+  <img src="assets/latte_macchiato_moji.svg" width="220">
 </p>
 
 # CAAPHA
