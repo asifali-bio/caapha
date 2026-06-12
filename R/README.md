@@ -2,7 +2,8 @@
   <img src="/assets/roasted_coffee_bean_moji.svg" width="220">
 </p>
 
-# Inspiring an entirely new field of drug discovery focused on targeted protein degradation and molecular glues
+# R
+**Inspiring an entirely new field of drug discovery focused on targeted protein degradation and molecular glues**
 
 ---
 
